@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\bin\Debug\net7.0\CA_HepsiSurada.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\bin\Debug\net7.0\CA_HepsiSurada.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\bin\Debug\net7.0\CA_HepsiSurada.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\bin\Debug\net7.0\CA_HepsiSurada.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\bin\Debug\net7.0\CA_HepsiSurada.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\obj\Debug\net7.0\CA_HepsiSurada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\obj\Debug\net7.0\CA_HepsiSurada.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\obj\Debug\net7.0\CA_HepsiSurada.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\obj\Debug\net7.0\CA_HepsiSurada.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\obj\Debug\net7.0\CA_HepsiSurada.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\obj\Debug\net7.0\refint\CA_HepsiSurada.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\obj\Debug\net7.0\CA_HepsiSurada.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\obj\Debug\net7.0\CA_HepsiSurada.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_02_11_2023\CA_HepsiSurada\obj\Debug\net7.0\ref\CA_HepsiSurada.dll

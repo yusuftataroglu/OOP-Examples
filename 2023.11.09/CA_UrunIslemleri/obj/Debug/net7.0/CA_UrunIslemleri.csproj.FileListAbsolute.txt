@@ -1,0 +1,28 @@
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.exe
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.deps.json
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.runtimeconfig.json
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.dll
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.pdb
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.AssemblyInfoInputs.cache
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.AssemblyInfo.cs
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.dll
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\obj\Debug\net7.0\refint\CA_UrunIslemleri.dll
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.pdb
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.genruntimeconfig.cache
+C:\Users\yusuf\Downloads\09.11\09.11\CA_UrunIslemleri\CA_UrunIslemleri\obj\Debug\net7.0\ref\CA_UrunIslemleri.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\bin\Debug\net7.0\CA_UrunIslemleri.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\obj\Debug\net7.0\refint\CA_UrunIslemleri.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\obj\Debug\net7.0\CA_UrunIslemleri.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Ödevler\CA_Odev_09_11_2023\CA_UrunIslemleri\obj\Debug\net7.0\ref\CA_UrunIslemleri.dll
